@@ -1,0 +1,81 @@
+#headline, #headline2
+{
+    color: aliceblue;
+    font-size: 300%;
+    font-style: italic;
+    text-align: center;
+}
+
+#headline
+{
+    color: aliceblue;
+}
+
+#headline2
+{
+    color: black;
+}
+
+#about, #recipe
+{
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: darkgoldenrod;
+    text-align: left;
+}
+
+#instructions
+{
+    
+}
+
+#kalitsouniaImg
+{
+    height: auto; 
+    width: auto; 
+    max-width: 500px; 
+    max-height: 500px;     
+}
+
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipeTitle
+{
+    color: aliceblue;
+    margin-top: 10px;
+}
+
+li
+{
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: burlywood;
+    margin-top: 20px;
+}
+
+dd
+{
+    display: list-item;
+    list-style-type: disc; 
+}
+
+div
+{ 
+    height: auto; 
+    width: auto; 
+    max-width: 500px; 
+    max-height: 900px;     
+}
+
+input
+{
+    font-weight: bold;
+}
+
+body
+{
+    background-image: url("footer_lodyas.png");
+}
